@@ -35,3 +35,4 @@ elif choice == '4':
     print(f"Result: {divide(num1, num2)}")
 else:
     print("Invalid input")
+# last comment: simple calculator using functions
